@@ -1,2 +1,1 @@
-# BlockChain__simulator
-a simplified smulation of a blockchain transaction
+#This is a cpp project using sqlite, and serves no purpose other then teaching me cpp
